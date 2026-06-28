@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+flask-cors  # if we were using flask, but we'll use fastapi cors

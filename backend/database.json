@@ -1,0 +1,1266 @@
+{
+  "COLLECTIONS": [
+    {
+      "id": "summer",
+      "name": "Summer Collection",
+      "description": "Light, breathable pieces for the warm days ahead",
+      "img": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800&q=80"
+    },
+    {
+      "id": "oversized",
+      "name": "Oversized Collection",
+      "description": "Bold silhouettes that make a statement",
+      "img": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=800&q=80"
+    },
+    {
+      "id": "linen",
+      "name": "The Linen Edit",
+      "description": "Premium linen crafted for effortless elegance",
+      "img": "https://images.unsplash.com/photo-1602810319250-a663f0af2f75?w=800&q=80"
+    },
+    {
+      "id": "street",
+      "name": "Street Essentials",
+      "description": "Everyday staples with an edge",
+      "img": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?w=800&q=80"
+    },
+    {
+      "id": "premium",
+      "name": "Premium Basics",
+      "description": "Elevated essentials in luxe fabrics",
+      "img": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=800&q=80"
+    }
+  ],
+  "PRODUCTS": [
+    {
+      "id": "p01",
+      "name": "Acid Wash Oversized Tee",
+      "category": "T-Shirts",
+      "gender": "Unisex",
+      "price": 799,
+      "originalPrice": 1199,
+      "badge": "SALE",
+      "rating": 4.5,
+      "reviews": 328,
+      "isNew": false,
+      "isBestSeller": true,
+      "collection": "oversized",
+      "colors": [
+        {
+          "name": "Washed Black",
+          "hex": "#2a2a2a"
+        },
+        {
+          "name": "Stone Gray",
+          "hex": "#8a8a7a"
+        },
+        {
+          "name": "Dusty Rose",
+          "hex": "#c4a4a0"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 12
+        },
+        {
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "size": "L",
+          "stock": 18
+        },
+        {
+          "size": "XL",
+          "stock": 8
+        },
+        {
+          "size": "XXL",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80",
+        "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&q=80",
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&q=80",
+      "description": "Ultra-soft 280GSM garment-dyed cotton. Boxy drop-shoulder silhouette. Perfect for layering.",
+      "fabric": "100% Premium Cotton, 280 GSM",
+      "care": "Machine wash cold. Tumble dry low. Do not bleach.",
+      "fit": "Oversized",
+      "tags": [
+        "tshirt",
+        "oversized",
+        "streetwear"
+      ]
+    },
+    {
+      "id": "p02",
+      "name": "Cargo Baggy Trousers",
+      "category": "Cargos",
+      "gender": "Men",
+      "price": 1499,
+      "originalPrice": 1999,
+      "badge": "TRENDING",
+      "rating": 4.7,
+      "reviews": 215,
+      "isNew": false,
+      "isBestSeller": true,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Olive",
+          "hex": "#556b2f"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Khaki",
+          "hex": "#c3b091"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 6
+        },
+        {
+          "size": "M",
+          "stock": 15
+        },
+        {
+          "size": "L",
+          "stock": 20
+        },
+        {
+          "size": "XL",
+          "stock": 10
+        },
+        {
+          "size": "XXL",
+          "stock": 4
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80",
+        "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?w=600&q=80",
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?w=600&q=80",
+      "description": "Relaxed-fit utility trousers with 6 functional pockets and an adjustable drawstring waist.",
+      "fabric": "98% Cotton, 2% Elastane Twill",
+      "care": "Machine wash cold. Hang dry.",
+      "fit": "Relaxed",
+      "tags": [
+        "cargo",
+        "pants",
+        "streetwear",
+        "bottoms"
+      ]
+    },
+    {
+      "id": "p03",
+      "name": "Streetwear Graphic Hoodie",
+      "category": "Hoodies",
+      "gender": "Unisex",
+      "price": 1899,
+      "originalPrice": 2499,
+      "badge": "NEW",
+      "rating": 4.8,
+      "reviews": 142,
+      "isNew": true,
+      "isBestSeller": false,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Charcoal",
+          "hex": "#333333"
+        },
+        {
+          "name": "Off White",
+          "hex": "#f5f0eb"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 8
+        },
+        {
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "size": "L",
+          "stock": 22
+        },
+        {
+          "size": "XL",
+          "stock": 12
+        },
+        {
+          "size": "XXL",
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+        "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=600&q=80",
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=600&q=80",
+      "description": "400GSM loopback fleece with a front graphic print. Double-layered hood. Ribbed cuffs.",
+      "fabric": "80% Cotton, 20% Polyester, 400 GSM Fleece",
+      "care": "Machine wash cold. Do not iron on print.",
+      "fit": "Oversized",
+      "tags": [
+        "hoodie",
+        "streetwear",
+        "winter"
+      ]
+    },
+    {
+      "id": "p04",
+      "name": "Cuban Collar Resort Shirt",
+      "category": "Shirts",
+      "gender": "Men",
+      "price": 1099,
+      "originalPrice": 1499,
+      "badge": "NEW",
+      "rating": 4.4,
+      "reviews": 89,
+      "isNew": true,
+      "isBestSeller": false,
+      "collection": "summer",
+      "colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#87CEEB"
+        },
+        {
+          "name": "Ecru",
+          "hex": "#c2b280"
+        },
+        {
+          "name": "Navy",
+          "hex": "#1a1a3e"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "stock": 18
+        },
+        {
+          "size": "L",
+          "stock": 14
+        },
+        {
+          "size": "XL",
+          "stock": 7
+        },
+        {
+          "size": "XXL",
+          "stock": 2
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80",
+        "https://images.unsplash.com/photo-1603252109360-909baaf261ae?w=600&q=80",
+        "https://images.unsplash.com/photo-1602810319250-a663f0af2f75?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1603252109360-909baaf261ae?w=600&q=80",
+      "description": "Relaxed resort-style shirt in premium viscose blend. Notch lapel collar. Camp-collar cut.",
+      "fabric": "70% Viscose, 30% Polyester",
+      "care": "Hand wash cold. Hang dry. Low iron.",
+      "fit": "Regular",
+      "tags": [
+        "shirt",
+        "resort",
+        "casual"
+      ]
+    },
+    {
+      "id": "p05",
+      "name": "Raw Edge Denim Jacket",
+      "category": "Jackets",
+      "gender": "Unisex",
+      "price": 2499,
+      "originalPrice": 3299,
+      "badge": "SALE",
+      "rating": 4.6,
+      "reviews": 176,
+      "isNew": false,
+      "isBestSeller": true,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Indigo Wash",
+          "hex": "#3d4f7c"
+        },
+        {
+          "name": "Light Wash",
+          "hex": "#a4b4c7"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "size": "L",
+          "stock": 12
+        },
+        {
+          "size": "XL",
+          "stock": 6
+        },
+        {
+          "size": "XXL",
+          "stock": 2
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=600&q=80",
+        "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600&q=80",
+        "https://images.unsplash.com/photo-1548126032-079a0fb0099d?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600&q=80",
+      "description": "Washed rigid denim with raw-edge seam detailing. Oversized boxy silhouette.",
+      "fabric": "100% Cotton Denim, 12oz",
+      "care": "Machine wash cold inside out. Hang dry.",
+      "fit": "Oversized",
+      "tags": [
+        "jacket",
+        "denim",
+        "outerwear"
+      ]
+    },
+    {
+      "id": "p06",
+      "name": "Structured Panel Cap",
+      "category": "Accessories",
+      "gender": "Unisex",
+      "price": 599,
+      "originalPrice": 799,
+      "badge": "NEW",
+      "rating": 4.3,
+      "reviews": 241,
+      "isNew": true,
+      "isBestSeller": false,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "White",
+          "hex": "#f5f5f5"
+        },
+        {
+          "name": "Olive",
+          "hex": "#556b2f"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "One Size",
+          "stock": 35
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600&q=80",
+        "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?w=600&q=80",
+      "description": "6-panel cotton twill cap with embroidered logo detail and adjustable snapback closure.",
+      "fabric": "100% Cotton Twill",
+      "care": "Spot clean only.",
+      "fit": "One Size",
+      "tags": [
+        "cap",
+        "accessories",
+        "hat"
+      ]
+    },
+    {
+      "id": "p07",
+      "name": "Drop-Shoulder Tie-Dye Tee",
+      "category": "T-Shirts",
+      "gender": "Unisex",
+      "price": 899,
+      "originalPrice": 1299,
+      "badge": "TRENDING",
+      "rating": 4.5,
+      "reviews": 399,
+      "isNew": false,
+      "isBestSeller": true,
+      "collection": "oversized",
+      "colors": [
+        {
+          "name": "Sunset",
+          "hex": "#e8886f"
+        },
+        {
+          "name": "Ocean",
+          "hex": "#5f9ea0"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 11
+        },
+        {
+          "size": "L",
+          "stock": 14
+        },
+        {
+          "size": "XL",
+          "stock": 7
+        },
+        {
+          "size": "XXL",
+          "stock": 0
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=600&q=80",
+        "https://images.unsplash.com/photo-1523398002811-999ca8dec234?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?w=600&q=80",
+      "description": "Hand-dyed 100% cotton tie-dye tee. Each piece is unique. Oversized unisex fit.",
+      "fabric": "100% Organic Cotton, 240 GSM",
+      "care": "Machine wash cold separately. Do not bleach.",
+      "fit": "Oversized",
+      "tags": [
+        "tshirt",
+        "tiedye",
+        "oversized"
+      ]
+    },
+    {
+      "id": "p08",
+      "name": "Parachute Cargo Jogger",
+      "category": "Cargos",
+      "gender": "Men",
+      "price": 1699,
+      "originalPrice": 2199,
+      "badge": "SALE",
+      "rating": 4.6,
+      "reviews": 163,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Stone",
+          "hex": "#b0a89a"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "size": "M",
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "stock": 15
+        },
+        {
+          "size": "XL",
+          "stock": 8
+        },
+        {
+          "size": "XXL",
+          "stock": 2
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80",
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80",
+      "description": "Lightweight parachute nylon cargo jogger. Zippered thigh pockets. Elasticated ankle.",
+      "fabric": "100% Nylon Parachute",
+      "care": "Machine wash cold. Hang dry.",
+      "fit": "Relaxed",
+      "tags": [
+        "cargo",
+        "jogger",
+        "pants",
+        "bottoms"
+      ]
+    },
+    {
+      "id": "p09",
+      "name": "Zip-Up Contrast Hoodie",
+      "category": "Hoodies",
+      "gender": "Unisex",
+      "price": 2199,
+      "originalPrice": 2799,
+      "badge": null,
+      "rating": 4.4,
+      "reviews": 94,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "premium",
+      "colors": [
+        {
+          "name": "Heather Gray",
+          "hex": "#b0b0a8"
+        },
+        {
+          "name": "Navy",
+          "hex": "#1a1a3e"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 7
+        },
+        {
+          "size": "M",
+          "stock": 14
+        },
+        {
+          "size": "L",
+          "stock": 18
+        },
+        {
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "size": "XXL",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80",
+        "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80",
+      "description": "Full-zip hoodie with contrast panel detailing. 380GSM premium brushed fleece inside.",
+      "fabric": "80% Cotton, 20% Polyester, 380 GSM",
+      "care": "Machine wash cold. Tumble dry low.",
+      "fit": "Regular",
+      "tags": [
+        "hoodie",
+        "zip",
+        "winter",
+        "jacket"
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "Oversized Linen Shirt",
+      "category": "Shirts",
+      "gender": "Men",
+      "price": 1299,
+      "originalPrice": 1699,
+      "badge": "NEW",
+      "rating": 4.7,
+      "reviews": 128,
+      "isNew": true,
+      "isBestSeller": false,
+      "collection": "linen",
+      "colors": [
+        {
+          "name": "Natural",
+          "hex": "#e8ddd0"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9caf88"
+        },
+        {
+          "name": "Sky",
+          "hex": "#87ceeb"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "size": "L",
+          "stock": 20
+        },
+        {
+          "size": "XL",
+          "stock": 11
+        },
+        {
+          "size": "XXL",
+          "stock": 4
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1602810319250-a663f0af2f75?w=600&q=80",
+        "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=600&q=80",
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1602810319250-a663f0af2f75?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=600&q=80",
+      "description": "Breathable 100% linen in a relaxed oversized cut. Perfect for summer street styling.",
+      "fabric": "100% European Linen",
+      "care": "Machine wash cold. Iron while damp.",
+      "fit": "Oversized",
+      "tags": [
+        "shirt",
+        "linen",
+        "summer"
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "Distressed Biker Tee",
+      "category": "T-Shirts",
+      "gender": "Men",
+      "price": 699,
+      "originalPrice": 999,
+      "badge": "TRENDING",
+      "rating": 4.3,
+      "reviews": 289,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Washed Black",
+          "hex": "#2a2a2a"
+        },
+        {
+          "name": "Vintage White",
+          "hex": "#f0ece4"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 14
+        },
+        {
+          "size": "M",
+          "stock": 22
+        },
+        {
+          "size": "L",
+          "stock": 18
+        },
+        {
+          "size": "XL",
+          "stock": 10
+        },
+        {
+          "size": "XXL",
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1527719327859-c6ce80353573?w=600&q=80",
+        "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600&q=80",
+      "description": "Distressed hem finishes and graphic print on 260GSM slub cotton. Boxy streetwear fit.",
+      "fabric": "100% Slub Cotton, 260 GSM",
+      "care": "Machine wash cold inside out.",
+      "fit": "Boxy",
+      "tags": [
+        "tshirt",
+        "distressed",
+        "biker"
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "Utility Crossbody Bag",
+      "category": "Accessories",
+      "gender": "Unisex",
+      "price": 999,
+      "originalPrice": 1399,
+      "badge": "SALE",
+      "rating": 4.5,
+      "reviews": 77,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Olive",
+          "hex": "#556b2f"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "One Size",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&q=80",
+      "description": "Tactical-inspired crossbody bag with multiple compartments. Water-resistant nylon.",
+      "fabric": "Water-Resistant Cordura Nylon",
+      "care": "Wipe clean with damp cloth.",
+      "fit": "One Size",
+      "tags": [
+        "bag",
+        "accessories",
+        "crossbody"
+      ]
+    },
+    {
+      "id": "p13",
+      "name": "Premium Heavyweight Tee",
+      "category": "T-Shirts",
+      "gender": "Men",
+      "price": 999,
+      "originalPrice": 1299,
+      "badge": "NEW",
+      "rating": 4.9,
+      "reviews": 512,
+      "isNew": true,
+      "isBestSeller": true,
+      "collection": "premium",
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#0a0a0a"
+        },
+        {
+          "name": "Bone",
+          "hex": "#e8e0d4"
+        },
+        {
+          "name": "Forest",
+          "hex": "#2d4a2d"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "size": "M",
+          "stock": 35
+        },
+        {
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "size": "XL",
+          "stock": 15
+        },
+        {
+          "size": "XXL",
+          "stock": 8
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80",
+        "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80",
+      "description": "Our signature heavyweight tee. 300GSM combed cotton with a structured drop-shoulder cut.",
+      "fabric": "100% Combed Cotton, 300 GSM",
+      "care": "Machine wash cold. Hang dry for best results.",
+      "fit": "Relaxed",
+      "tags": [
+        "tshirt",
+        "premium",
+        "basics",
+        "heavyweight"
+      ]
+    },
+    {
+      "id": "p14",
+      "name": "Pleated Wide-Leg Trousers",
+      "category": "Cargos",
+      "gender": "Men",
+      "price": 1799,
+      "originalPrice": 2299,
+      "badge": "TRENDING",
+      "rating": 4.6,
+      "reviews": 134,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "premium",
+      "colors": [
+        {
+          "name": "Charcoal",
+          "hex": "#3a3a3a"
+        },
+        {
+          "name": "Cream",
+          "hex": "#f5f0e8"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 8
+        },
+        {
+          "size": "M",
+          "stock": 14
+        },
+        {
+          "size": "L",
+          "stock": 18
+        },
+        {
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "size": "XXL",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80",
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80",
+      "description": "Tailored wide-leg trousers with a front pleat. Perfect balance of formal and streetwear.",
+      "fabric": "95% Cotton, 5% Elastane Twill",
+      "care": "Dry clean recommended.",
+      "fit": "Wide Leg",
+      "tags": [
+        "trousers",
+        "wide-leg",
+        "premium"
+      ]
+    },
+    {
+      "id": "p15",
+      "name": "Cropped Bomber Jacket",
+      "category": "Jackets",
+      "gender": "Unisex",
+      "price": 2999,
+      "originalPrice": 3999,
+      "badge": "NEW",
+      "rating": 4.8,
+      "reviews": 67,
+      "isNew": true,
+      "isBestSeller": false,
+      "collection": "street",
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#0a0a0a"
+        },
+        {
+          "name": "Army Green",
+          "hex": "#4b5320"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "stock": 12
+        },
+        {
+          "size": "XL",
+          "stock": 6
+        },
+        {
+          "size": "XXL",
+          "stock": 2
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1548126032-079a0fb0099d?w=600&q=80",
+        "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1548126032-079a0fb0099d?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=600&q=80",
+      "description": "Cropped silhouette bomber with ribbed collar and cuffs. Satin-finish shell.",
+      "fabric": "100% Nylon Shell, Polyester Lining",
+      "care": "Dry clean only.",
+      "fit": "Cropped",
+      "tags": [
+        "jacket",
+        "bomber",
+        "outerwear"
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "Linen Blend Shorts",
+      "category": "Shorts",
+      "gender": "Men",
+      "price": 899,
+      "originalPrice": 1199,
+      "badge": null,
+      "rating": 4.4,
+      "reviews": 98,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "summer",
+      "colors": [
+        {
+          "name": "Sand",
+          "hex": "#d2b48c"
+        },
+        {
+          "name": "White",
+          "hex": "#f5f5f5"
+        },
+        {
+          "name": "Navy",
+          "hex": "#1a1a3e"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 12
+        },
+        {
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "size": "L",
+          "stock": 16
+        },
+        {
+          "size": "XL",
+          "stock": 8
+        },
+        {
+          "size": "XXL",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600&q=80",
+        "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?w=600&q=80",
+      "description": "Relaxed-fit linen blend shorts with drawstring waist. Perfect for coastal vibes.",
+      "fabric": "55% Linen, 45% Cotton",
+      "care": "Machine wash cold. Iron on low.",
+      "fit": "Relaxed",
+      "tags": [
+        "shorts",
+        "linen",
+        "summer",
+        "bottoms"
+      ]
+    },
+    {
+      "id": "p17",
+      "name": "Minimal Leather Belt",
+      "category": "Accessories",
+      "gender": "Unisex",
+      "price": 799,
+      "originalPrice": 999,
+      "badge": null,
+      "rating": 4.6,
+      "reviews": 156,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "premium",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Tan",
+          "hex": "#c19a6b"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "stock": 15
+        },
+        {
+          "size": "L",
+          "stock": 12
+        },
+        {
+          "size": "XL",
+          "stock": 8
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&q=80",
+      "description": "Full-grain leather belt with brushed metal buckle. Minimal and timeless.",
+      "fabric": "Full-Grain Leather",
+      "care": "Condition with leather balm periodically.",
+      "fit": "Adjustable",
+      "tags": [
+        "belt",
+        "accessories",
+        "leather"
+      ]
+    },
+    {
+      "id": "p18",
+      "name": "Textured Knit Polo",
+      "category": "Shirts",
+      "gender": "Men",
+      "price": 1199,
+      "originalPrice": 1599,
+      "badge": "TRENDING",
+      "rating": 4.5,
+      "reviews": 203,
+      "isNew": false,
+      "isBestSeller": true,
+      "collection": "summer",
+      "colors": [
+        {
+          "name": "Cream",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6b8e23"
+        },
+        {
+          "name": "Rust",
+          "hex": "#b7410e"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 11
+        },
+        {
+          "size": "M",
+          "stock": 19
+        },
+        {
+          "size": "L",
+          "stock": 15
+        },
+        {
+          "size": "XL",
+          "stock": 8
+        },
+        {
+          "size": "XXL",
+          "stock": 4
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80",
+        "https://images.unsplash.com/photo-1603252109360-909baaf261ae?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1603252109360-909baaf261ae?w=600&q=80",
+      "description": "Textured crochet-knit polo with a relaxed collar. Resort-ready sophistication.",
+      "fabric": "100% Cotton Knit",
+      "care": "Hand wash cold. Dry flat.",
+      "fit": "Regular",
+      "tags": [
+        "polo",
+        "shirt",
+        "knit",
+        "summer"
+      ]
+    },
+    {
+      "id": "p19",
+      "name": "Relaxed Linen Trousers",
+      "category": "Cargos",
+      "gender": "Men",
+      "price": 1599,
+      "originalPrice": 2099,
+      "badge": null,
+      "rating": 4.7,
+      "reviews": 88,
+      "isNew": false,
+      "isBestSeller": false,
+      "collection": "linen",
+      "colors": [
+        {
+          "name": "Natural",
+          "hex": "#e8ddd0"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 7
+        },
+        {
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "size": "L",
+          "stock": 16
+        },
+        {
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "size": "XXL",
+          "stock": 3
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80",
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80",
+      "description": "Flowing linen trousers with elasticated waist and drawstring. Pure summer luxury.",
+      "fabric": "100% European Linen",
+      "care": "Machine wash cold. Iron while damp.",
+      "fit": "Relaxed",
+      "tags": [
+        "trousers",
+        "linen",
+        "summer",
+        "bottoms"
+      ]
+    },
+    {
+      "id": "p20",
+      "name": "Graphic Print Sweatshirt",
+      "category": "Hoodies",
+      "gender": "Unisex",
+      "price": 1599,
+      "originalPrice": 2099,
+      "badge": "NEW",
+      "rating": 4.5,
+      "reviews": 145,
+      "isNew": true,
+      "isBestSeller": false,
+      "collection": "oversized",
+      "colors": [
+        {
+          "name": "Heather Gray",
+          "hex": "#b0b0a8"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        }
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "stock": 18
+        },
+        {
+          "size": "L",
+          "stock": 22
+        },
+        {
+          "size": "XL",
+          "stock": 12
+        },
+        {
+          "size": "XXL",
+          "stock": 5
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80"
+      ],
+      "img": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+      "img2": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80",
+      "description": "Oversized crew-neck sweatshirt with front graphic art. 350GSM brushed terry.",
+      "fabric": "85% Cotton, 15% Polyester, 350 GSM",
+      "care": "Machine wash cold. Do not iron on print.",
+      "fit": "Oversized",
+      "tags": [
+        "sweatshirt",
+        "graphic",
+        "oversized"
+      ]
+    }
+  ]
+}
